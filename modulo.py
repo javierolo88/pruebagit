@@ -1,0 +1,2 @@
+def adelante():
+  print ("hola")
